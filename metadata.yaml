@@ -1,4 +1,8 @@
 _repo: Missionary-Work-Among-the-Ojebway-Indians_6983
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilson, Edward Francis
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2287'
     url: http://www.gutenberg.org/2009/agents/2287
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6983#Missionary-Work-Among-the-Ojebway-Indians
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
